@@ -12,8 +12,8 @@ apply plugin: 'eclipse'
 apply plugin: 'maven-publish'
 
 version = '1.0'
-group = 'com.firenado.advacedvillagers'
-archivesBaseName = 'advacedvillagers'
+group = 'com.firenado.advancedvillagers'
+archivesBaseName = 'advancedvillagers'
 
 java.toolchain.languageVersion = JavaLanguageVersion.of(16)
 

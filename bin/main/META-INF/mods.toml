@@ -1,15 +1,15 @@
 modLoader="javafml"
 loaderVersion="[37,)"
 license="MIT"
-issueTrackerURL="https://github.com/Ayman-0-Ahmed/Advanced-Villagers/issues"
+issueTrackerURL="https://github.com/Ayman-0-Ahmed/Advanced-Villagers/issues/"
 
 [[mods]]
-modId="advacedvillagers"
-version="1.0" 
-displayName="Advaced Villagers"
+modId="advancedvillagers"
+version="1.0"
+displayName="Advanced Villagers"
 logoFile="logo.png"
 credits="Thanks for this example mod goes to Java"
-authors="Love, Cheese and small house plants" #optional
+authors="Love, Cheese and small house plants"
 description='''
-
+Testing 123
 '''
